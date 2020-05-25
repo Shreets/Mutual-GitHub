@@ -84,8 +84,12 @@ const runAll = () => {
   //if not the token needs to be submitted via input to display mutual following span
 
   if (tokenVal === "" || tokenVal === "undefined" || tokenVal === null) {
-    mutualSpan.style.display = "none";
-    form.style.display = "block";
+    if (mutualSpan) {
+      mutualSpan.style.display = "none";
+    }
+    if (form) {
+      form.style.display = "block";
+    }
     if (sub) {
       sub.addEventListener("click", (event) => {
         event.preventDefault();

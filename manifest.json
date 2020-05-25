@@ -1,5 +1,5 @@
 {
-  "name": "Mutual Github",
+  "name": "Mutual GitHub",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Find out if a person is followed by the other people you follow",
@@ -19,7 +19,6 @@
   },
   "permissions": [
     "tabs",
-    "bookmarks",
     "storage",
     "https://github.com/*",
     "https://ajax.googleapis.com/"
