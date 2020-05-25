@@ -1,6 +1,6 @@
 # Mutual-GitHub
 
-This is a chrome extension to that displays the list of people among the ones you follow, who follow the person's profile you are interested in.
+This is a chrome extension to that displays a list of people among the ones you follow, who follow the person's profile you are interested in.
 
 ![action](https://github.com/Shreets/Mutual-GitHub/blob/master/screenshots/screen_gif.gif)
 
