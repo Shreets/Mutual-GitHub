@@ -2,6 +2,18 @@
 
 This is a chrome extension to that displays the list of people among the ones you follow, who follow the person's profile you are interested in.
 
+![action](https://github.com/Shreets/Mutual-GitHub/blob/master/screenshots/screen_gif.gif)
+
+## Installation (Developer Mode)
+
+* go to chrome://extensions/
+* Turn on Developer Mode
+* Select `Load Unpacked`
+* Select and upload the extension folder.
+* Enable extension
+
+**The extension will be available in Chrome Web Store once it recieves approval upon review **
+
 
 ## TOKEN ACCESS
 
@@ -11,4 +23,7 @@ In order to grant Mutual-Git permission to fetch data, Please provide us with yo
 
 If you don't already have one, go to Settings - create one, then copy and paste it into the token textbox
 
+
+![token_box](https://github.com/Shreets/Mutual-GitHub/blob/master/screenshots/token-place.PNG)
+![token_box](https://github.com/Shreets/Mutual-GitHub/blob/master/screenshots/token_gif.gif)
 
