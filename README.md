@@ -3,7 +3,7 @@
 This is a chrome extension to that displays the list of people among the ones you follow, who follow the person's profile you are interested in.
 
 
-##TOKEN ACCESS
+## TOKEN ACCESS
 
 Mutual Git uses the GitHub API to retrieve followers' metadata. By default, it makes unauthenticated requests to get these data.
 
