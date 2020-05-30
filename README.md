@@ -2,7 +2,7 @@
 
 This is a chrome extension to that displays list of people you follow, who follow a profile you are interested in.
 
-**Find in Web Store :** (https://chrome.google.com/webstore/detail/mutual-github/momfmojdajiafeagimngkaekoooihmcn)
+**Find in Web Store :** https://chrome.google.com/webstore/detail/mutual-github/momfmojdajiafeagimngkaekoooihmcn
 
 ![action](https://github.com/Shreets/Mutual-GitHub/blob/master/screenshots/screen_gif.gif)
 
