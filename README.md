@@ -1,6 +1,6 @@
 # Mutual-GitHub
 
-This is a chrome extension to that displays list of people you follow, who follow a profile you are interested in.
+The chrome extension is used to see mutual GitHub followers when you visit a person's profile
 
 **Find in Web Store :** https://chrome.google.com/webstore/detail/mutual-github/momfmojdajiafeagimngkaekoooihmcn
 
