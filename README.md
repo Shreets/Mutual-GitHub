@@ -1,3 +1,5 @@
+# Due to latest GitHub updates the extension has to be updated to comply with the changes. The extension will be updated soon
+
 # Mutual-GitHub
 
 The chrome extension is used to see mutual GitHub followers when you visit a person's profile
